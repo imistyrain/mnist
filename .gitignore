@@ -1,0 +1,10 @@
+data
+images
+models
+output
+error
+*.log
+.vscode
+__pycache__
+*.pth
+bak
